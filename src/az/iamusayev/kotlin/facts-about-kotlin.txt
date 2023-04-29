@@ -1,0 +1,12 @@
+                                                                         Kotlin
+Created in 2011 by JetBrains
+Fully compatible with Java (compiles to the same byte-code and runs on the same JVM)
+One project can have both Java and Kotlin code and use each other
+Kotlin can import and use any existing Java library
+
+Kotlin is the standard for Android development.
+Spring applications can be written in Kotlin too
+Kotlin code is about twice as compact as Java code
+
+Kotlin has many handy features that Java doesn't have.
+Kotlin is getting more popular every year, but before learning Kotlin it's better to learn Java first (so you'll have a better understanding of what Kotlin simplifies)
